@@ -6,7 +6,7 @@ slowly getting brighter and brighter.
 
 You continue coding.
 
-one day i got bored with the stuff so i created an algorithm to add some color
+One day i got bored with the stuff so i created an algorithm to add some color
 and randomness.
 
 Then I decided to change the transparency of the
